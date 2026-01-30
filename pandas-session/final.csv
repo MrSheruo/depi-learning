@@ -1,0 +1,11 @@
+,ID,Name,Department,Age,Salary,Joining_Date,Salary_After_Raise,average_salary_per_department
+0,1,John Doe,HR,28.0,50000.0,2020-05-21,2500,
+1,2,Jane Smith,IT,34.0,75000.0,2019-06-12,3750,
+2,3,Bob Johnson,Finance,45.0,85000.0,2018-07-15,4250,
+3,4,Alice White,IT,,72000.0,2021-01-04,3600,
+4,5,Charlie Brown,Marketing,32.0,68000.0,2019-11-30,3400,
+5,6,Eva Green,,41.0,54000.0,2017-04-22,2700,
+6,7,Mike Davis,Finance,50.0,90000.0,2016-08-19,4500,
+7,8,Linda Taylor,IT,26.0,64000.0,2022-02-10,3200,
+8,9,James Wilson,Marketing,38.0,68111.11111111111,2020-09-08,3405,
+9,10,Sarah Adams,HR,30.0,55000.0,2021-03-18,2750,
